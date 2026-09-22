@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & AI, Web Development**
 
-- 👨‍💻 All of my projects are available at [AkramAsserraj](AkramAsserraj)
+- 👨‍💻 All of my projects are available at [AkramAsserraj](https://github.com/AkramAsserraj)
 
 - 📫 How to reach me **akramsaraj01@gmail.com**
 
