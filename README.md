@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akram</h1>
 <h3 align="center">Computer Science & AI student</h3>
 
-- 🌱 I’m currently learning **Machine Learning & AI, Web Development**
+- 🌱 I’m currently learning **Machine Learning & AI**
 
 - 👨‍💻 All of my projects are available at [AkramAsserraj](https://github.com/AkramAsserraj)
 
